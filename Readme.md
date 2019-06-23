@@ -10,4 +10,4 @@ node src/index.js
 open up the GraphQL playground at localhost:4000
 checkout the schema.
 
-Note: it uses jsonwebtokens for auth so remember to add
+Note: it uses jsonwebtokens for auth so remember to add the headers when using the playground environment.
